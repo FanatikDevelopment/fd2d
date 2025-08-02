@@ -1,0 +1,11 @@
+# tiler
+
+This library was generated with [Nx](https://nx.dev).
+
+## Building
+
+Run `nx build tiler` to build the library.
+
+## Running unit tests
+
+Run `nx test tiler` to execute the unit tests via [Vitest](https://vitest.dev/).
